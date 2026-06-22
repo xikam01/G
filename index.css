@@ -1,0 +1,9 @@
+body{
+   padding: 0;
+   margin: 0;
+   align-items: center;
+   background-color: rgb(82, 114, 205);
+}
+body>h1{
+    color: rgb(255, 255, 255);
+}
