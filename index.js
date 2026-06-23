@@ -22,11 +22,18 @@
 // console.log(email)
 
 
-let online =false;
-let forsale=true;
-let isstudent = true;
+// let online =false;
+// let forsale=true;
+// let isstudent = true;
 
 
-console.log(`bro is online${online}`)
-console.log(`is this car for sale${online}`)
-console.log(`enrolled${isstudent}`)
+// console.log(`bro is online${online}`)
+// console.log(`is this car for sale${online}`)
+// console.log(`enrolled${isstudent}`)
+
+
+
+
+document.getElementById("p1").textContent=("welcome ")
+document.getElementById("p2").textContent=("opening ")
+document.getElementById("p3").textContent=("hand ")
