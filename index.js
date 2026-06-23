@@ -13,12 +13,20 @@
 
 
 
-let name = "valvus";
-let nickname = "nazir"
-let email ="cabdiraxmaan@gmail"
+// let name = "valvus";
+// let nickname = "nazir"
+// let email ="cabdiraxmaan@gmail"
 
-console.log(name);
-console.log(nickname);
-console.log(email)
+// console.log(name);
+// console.log(nickname);
+// console.log(email)
 
 
+let online =false;
+let forsale=true;
+let isstudent = true;
+
+
+console.log(`bro is online${online}`)
+console.log(`is this car for sale${online}`)
+console.log(`enrolled${isstudent}`)
